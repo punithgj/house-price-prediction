@@ -12,7 +12,7 @@ Key Components
 Usage
 Clone the repository:
 
-git clone https://github.com/yourusername/HousePrice_Prediction.git
+git clone https: https://github.com/punithgj/house-price-prediction
 cd HousePrice_Prediction
 
 Install dependencies:
@@ -28,4 +28,4 @@ Open your web browser and visit http://127.0.0.1:5000/ to interact with the Hous
 
 Datasets Used
 Seattle House Price Prediction Dataset [Kaggle]
-Feel free to explore and adapt the project for your own use. If you have any questions or suggestions, please create an issue or reach out to yourusername. Happy coding!
+Feel free to explore and adapt the project for your own use. If you have any questions or suggestions, please create an issue or reach out to punithgj5. Happy coding!
